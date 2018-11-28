@@ -1,2 +1,6 @@
 # Hello-World
 just another Repo
+
+Das ist reiner Testtext...
+?ßÜüäÄöÖeé 
+mit Sonderzeichen und so...
